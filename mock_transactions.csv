@@ -1,0 +1,101 @@
+date,name,amount,category,type,location_confidence
+2025-09-13,Uber,79.7,Shopping,credit,0.76
+2025-09-17,Stripe,72.56,Groceries,credit,0.89
+2025-09-09,Amazon,63.4,Groceries,debit,0.76
+2025-09-05,Stripe,26.71,Transportation,credit,0.75
+2025-08-16,Amazon,58.2,Entertainment,debit,0.83
+2025-09-25,Whole Foods,78.56,Shopping,credit,0.97
+2025-09-19,Amazon,32.92,Business,credit,0.89
+2025-09-06,Stripe,20.77,Business,debit,0.89
+2025-08-30,Amazon,34.92,Business,debit,0.79
+2025-08-08,Amazon,34.28,Business,debit,0.86
+2025-09-15,Netflix,68.46,Shopping,credit,0.95
+2025-08-15,Whole Foods,37.25,Groceries,debit,0.89
+2025-08-02,Stripe,54.82,Business,credit,0.79
+2025-09-18,Stripe,28.59,Business,debit,0.83
+2025-09-13,Stripe,62.79,Transportation,debit,0.86
+2025-09-16,Amazon,83.82,Shopping,credit,0.98
+2025-09-29,Whole Foods,61.81,Transportation,debit,0.81
+2025-09-25,Whole Foods,53.25,Shopping,credit,0.94
+2025-08-07,Amazon,51.29,Business,debit,0.8
+2025-09-22,Whole Foods,50.69,Shopping,debit,0.7
+2025-09-22,Netflix,33.59,Transportation,debit,0.73
+2025-09-20,Amazon,31.68,Business,debit,0.87
+2025-09-18,Netflix,38.17,Transportation,credit,0.77
+2025-09-26,Uber,69.74,Entertainment,credit,0.75
+2025-08-25,Whole Foods,14.59,Entertainment,debit,0.75
+2025-09-17,Amazon,59.85,Groceries,debit,0.96
+2025-08-14,Stripe,71.63,Business,credit,0.8
+2025-09-05,Netflix,49.96,Entertainment,credit,0.86
+2025-08-25,Whole Foods,57.75,Shopping,credit,0.73
+2025-08-13,Netflix,68.07,Groceries,credit,0.76
+2025-09-25,Stripe,40.71,Shopping,debit,0.98
+2025-09-22,Netflix,58.03,Transportation,debit,0.92
+2025-09-25,Amazon,45.12,Groceries,credit,0.96
+2025-08-30,Stripe,44.43,Business,debit,0.91
+2025-09-19,Netflix,55.22,Entertainment,credit,0.74
+2025-08-12,Stripe,49.78,Groceries,credit,0.78
+2025-09-05,Whole Foods,16.22,Entertainment,debit,0.95
+2025-09-02,Stripe,56.3,Entertainment,debit,0.76
+2025-09-13,Stripe,74.89,Business,debit,0.94
+2025-09-24,Amazon,34.12,Shopping,credit,0.97
+2025-09-04,Amazon,33.14,Transportation,debit,0.71
+2025-08-03,Whole Foods,15.36,Business,credit,0.98
+2025-09-17,Stripe,20.62,Groceries,credit,0.77
+2025-08-08,Stripe,37.12,Groceries,debit,0.91
+2025-09-09,Uber,52.02,Business,debit,0.84
+2025-08-07,Netflix,70.59,Groceries,credit,0.89
+2025-08-25,Uber,33.08,Transportation,debit,0.92
+2025-08-09,Netflix,56.11,Shopping,debit,0.84
+2025-09-22,Uber,80.18,Groceries,debit,0.91
+2025-09-05,Netflix,47.32,Shopping,credit,0.96
+2025-09-12,Stripe,48.4,Entertainment,credit,0.79
+2025-08-02,Uber,33.73,Business,credit,0.98
+2025-09-06,Stripe,54.12,Groceries,credit,0.75
+2025-08-15,Whole Foods,74.91,Groceries,debit,0.71
+2025-08-10,Whole Foods,64.52,Transportation,credit,0.94
+2025-09-22,Amazon,29.83,Transportation,credit,0.94
+2025-08-20,Stripe,39.56,Business,credit,0.83
+2025-09-24,Stripe,48.35,Entertainment,credit,0.98
+2025-09-07,Uber,36.06,Business,credit,0.87
+2025-08-05,Uber,53.96,Groceries,debit,0.71
+2025-08-03,Whole Foods,63.17,Groceries,debit,0.8
+2025-08-13,Netflix,78.77,Groceries,debit,0.88
+2025-09-15,Whole Foods,38.07,Business,credit,0.76
+2025-09-14,Netflix,72.85,Entertainment,credit,0.96
+2025-09-17,Stripe,73.0,Transportation,debit,0.72
+2025-09-01,Stripe,48.93,Groceries,debit,0.73
+2025-09-29,Uber,55.59,Shopping,debit,0.77
+2025-09-21,Amazon,50.61,Entertainment,credit,0.86
+2025-09-10,Uber,24.21,Transportation,credit,0.74
+2025-08-24,Whole Foods,93.36,Entertainment,debit,0.79
+2025-09-08,Netflix,58.01,Groceries,debit,0.88
+2025-08-09,Uber,43.95,Transportation,debit,0.95
+2025-08-05,Uber,60.09,Groceries,debit,0.76
+2025-08-18,Stripe,67.6,Business,debit,0.93
+2025-08-04,Amazon,39.57,Shopping,credit,0.94
+2025-09-22,Stripe,52.42,Groceries,credit,0.97
+2025-09-04,Netflix,25.31,Entertainment,debit,0.72
+2025-08-14,Stripe,55.63,Business,debit,0.96
+2025-09-23,Amazon,18.14,Business,credit,0.9
+2025-08-27,Uber,25.16,Business,debit,0.78
+2025-08-18,Stripe,13.47,Entertainment,credit,0.99
+2025-08-26,Stripe,55.49,Groceries,debit,0.78
+2025-08-06,Stripe,57.06,Entertainment,credit,0.86
+2025-08-30,Amazon,47.53,Shopping,debit,0.94
+2025-09-16,Stripe,43.31,Entertainment,debit,0.97
+2025-09-18,Amazon,50.41,Transportation,debit,0.91
+2025-08-08,Uber,70.44,Entertainment,debit,0.73
+2025-09-14,Whole Foods,44.09,Shopping,debit,0.81
+2025-09-14,Stripe,52.19,Business,credit,0.82
+2025-09-10,Amazon,46.09,Shopping,debit,0.77
+2025-08-03,Stripe,54.13,Entertainment,debit,0.77
+2025-09-16,Netflix,62.81,Shopping,debit,0.89
+2025-08-20,Whole Foods,67.78,Entertainment,credit,0.77
+2025-09-25,Uber,66.4,Business,debit,0.73
+2025-08-01,Whole Foods,38.0,Shopping,credit,0.83
+2025-08-10,Uber,79.61,Groceries,credit,0.95
+2025-09-10,Netflix,58.72,Shopping,credit,0.98
+2025-08-06,Whole Foods,64.24,Groceries,debit,0.75
+2025-09-23,Stripe,13.82,Entertainment,debit,0.78
+2025-08-14,Uber,51.35,Transportation,debit,0.8
